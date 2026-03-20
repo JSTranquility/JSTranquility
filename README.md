@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=500&lines=Coding+my+way+through+life+✨;Software+Engineering+Student;React+%7C+C%23+%7C+Python+%7C+Java;Flutter+%7C+Dart+%7C+JavaScript;Always+learning+new+things..." />
 </p>
 
-<img align="right" alt="anime-gif" height="180px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYms3eTIyNG01eGo5M3VhcXppb2p1MjhydzN6eGhzY3gzNWR6cjFmeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8JCIWBz8oRRLZmZhNn/giphy.gif" />
-
 ---
 
 ### 🌸 About Me  
