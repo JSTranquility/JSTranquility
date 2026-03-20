@@ -57,14 +57,6 @@
 
 ---
 
-### 🔥 Streak  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=JSTranquility&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
-
----
-
 ### 🧬 Activity Graph  
 
 <p align="center">
