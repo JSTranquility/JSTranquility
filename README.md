@@ -73,14 +73,6 @@
 
 ---
 
-### 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JSTranquility/JSTranquility/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ### 🌙 Vibes  
 
 <p align="center">
